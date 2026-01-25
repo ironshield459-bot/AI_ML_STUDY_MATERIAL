@@ -1,0 +1,6 @@
+|-- 00_Setup_Guide
+    |-- Google Colab Guide.pdf
+    |-- Jupyter Notebook Setup Guide (1).pdf
+    |-- Vs Code + Python Setup Guide (windows) (1).pdf
+|-- 01_Notebooks
+    |-- 00_Trials.ipynb
