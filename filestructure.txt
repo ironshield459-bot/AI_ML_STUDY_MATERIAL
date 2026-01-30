@@ -3,4 +3,11 @@
     |-- Jupyter Notebook Setup Guide (1).pdf
     |-- Vs Code + Python Setup Guide (windows) (1).pdf
 |-- 01_Notebooks
-    |-- 00_Trials.ipynb
+    |-- Python_Conditions_and_Loops_Important_Only.ipynb
+    |-- Python_Data_Types_Complete.ipynb
+    |-- Python_Dictionaries_Important_Concepts.ipynb
+    |-- Python_Functions_Important_Only.ipynb
+    |-- Python_Lists_Important_Concepts.ipynb
+    |-- Python_Numbers_and_Strings_Detailed.ipynb
+    |-- Python_Sets_Important_Concepts.ipynb
+    |-- Python_Tuples_Important_Concepts.ipynb
