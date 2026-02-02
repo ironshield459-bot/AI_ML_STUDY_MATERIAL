@@ -4,11 +4,13 @@
     |-- Vs Code + Python Setup Guide (windows) (1).pdf
 |-- 01_Notebooks
     |-- Python Fundamentals
-        |-- Introduction to Data Types.ipynb
-        |-- Python_Conditions_and_Loops_Important_Only.ipynb
-        |-- Python_Dictionaries_Important_Concepts.ipynb
-        |-- Python_Functions_Important_Only.ipynb
-        |-- Python_Lists_Important_Concepts.ipynb
-        |-- Python_Numbers_and_Strings_Detailed.ipynb
-        |-- Python_Sets_Important_Concepts.ipynb
-        |-- Python_Tuples_Important_Concepts.ipynb
+        |-- 00_Data_Types.ipynb
+        |-- 01_Numbers_and_Strings.ipynb
+        |-- 02_Python_Lists.ipynb
+        |-- 03_Python_Dictionaries.ipynb
+        |-- 04_Python_Conditions_and_Loops.ipynb
+        |-- 05_Python_Functions.ipynb
+        |-- 06_Python_Tuples.ipynb
+        |-- 07_Python_Sets.ipynb
+    |-- Python Practice Questions
+        |-- 00_Basic_Concepts.ipynb
