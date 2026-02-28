@@ -1,0 +1,15 @@
+{
+    "name": "John Doe",
+    "age": 45,
+    "hobbies": [
+        "Running",
+        "Cricket",
+        "Coding"
+    ],
+    "address": {
+        "city": "New York",
+        "lane": 10,
+        "house_number": 44
+    },
+    "package_in_lpa": 55.8
+}
